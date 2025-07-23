@@ -12,7 +12,7 @@
 - Uses **predefined carbon emission factors** to calculate total emissions.
 - Save each building with a unique name to track separately.
 
-### 🍳 Household Emission Calculator
+### Household Emission Calculator
 - Estimate emissions from **daily cooking, energy usage**, and utilities.
 - Tailored specifically for individual homeowners and tenants.
 
@@ -76,6 +76,5 @@ CarbonCalculator/
 ├── backend/
 │   ├── server.js
 │   ├── database.js
-│
 ├── Content/
 └── README.md
