@@ -9,10 +9,10 @@ import dotenv from 'dotenv'
 // }).promise();
 
 const pool=mysql.createPool({
-    host: '127.0.0.1',
-    user: 'root',
-    password: 'ADITI@MYSQL',
-    database: 'carbon_calc'
+    host: '',
+    user: '',
+    password: '',
+    database: ''
 }).promise();
 
 export async function getdata(){ 
